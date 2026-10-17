@@ -1,8 +1,8 @@
 # LastSaaS
 
-[![CI](https://github.com/jonradoff/lastsaas/actions/workflows/ci.yml/badge.svg)](https://github.com/jonradoff/lastsaas/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/jonradoff/lastsaas/branch/master/graph/badge.svg)](https://codecov.io/gh/jonradoff/lastsaas)
-[![Go Report Card](https://goreportcard.com/badge/github.com/jonradoff/lastsaas)](https://goreportcard.com/report/github.com/jonradoff/lastsaas)
+[![CI](https://github.com/metavert-io/lastsaas/actions/workflows/ci.yml/badge.svg)](https://github.com/metavert-io/lastsaas/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/metavert-io/lastsaas/branch/master/graph/badge.svg)](https://codecov.io/gh/metavert-io/lastsaas)
+[![Go Report Card](https://goreportcard.com/badge/github.com/metavert-io/lastsaas)](https://goreportcard.com/report/github.com/metavert-io/lastsaas)
 
 **The last SaaS boilerplate you'll ever need.**
 
@@ -334,7 +334,7 @@ A built-in [Model Context Protocol](https://modelcontextprotocol.io) server give
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/jonradoff/lastsaas.git
+git clone https://github.com/metavert-io/lastsaas.git
 cd lastsaas
 ```
 

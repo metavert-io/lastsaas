@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonradoff/lastsaas.git"
+    "url": "https://github.com/metavert-io/lastsaas.git"
   },
   "homepage": "https://metavert.io/lastsaas",
-  "documentation": "https://github.com/jonradoff/lastsaas/blob/master/README.md",
-  "support": "https://github.com/jonradoff/lastsaas/issues",
+  "documentation": "https://github.com/metavert-io/lastsaas/blob/master/README.md",
+  "support": "https://github.com/metavert-io/lastsaas/issues",
   "server": {
     "type": "binary",
     "entry_point": "bin/lastsaas",

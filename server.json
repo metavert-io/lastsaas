@@ -3,14 +3,14 @@
   "name": "io.github.jonradoff/lastsaas",
   "description": "Read-only admin MCP server for LastSaaS — dashboards, users, tenants, billing, logs, health.",
   "repository": {
-    "url": "https://github.com/jonradoff/lastsaas",
+    "url": "https://github.com/metavert-io/lastsaas",
     "source": "github"
   },
   "version": "1.0.0",
   "packages": [
     {
       "registryType": "mcpb",
-      "identifier": "https://github.com/jonradoff/lastsaas/releases/download/v1.0.0/lastsaas-darwin-arm64.mcpb",
+      "identifier": "https://github.com/metavert-io/lastsaas/releases/download/v1.0.0/lastsaas-darwin-arm64.mcpb",
       "version": "1.0.0",
       "fileSha256": "bdd36be9e481def3b8dd36801ada11bffb9f52c0d6f81a6a9afb6efb3c3933a0",
       "transport": {
