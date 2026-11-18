@@ -10,6 +10,8 @@ LastSaaS is a complete, production-ready SaaS foundation built entirely through 
 
 The bottleneck for building software isn't engineering capacity anymore — it's imagination. LastSaaS proves it: a single person with a clear vision and an AI agent can stand up what used to require a team and months of work. And because it was built with [Claude Code](https://claude.ai/claude-code), the codebase is fork-ready for agentic engineering — point an AI agent at it and keep building your product through conversation.
 
+https://github.com/user-attachments/assets/ad7d22e1-f5e9-4577-ae32-ea44e9c3d343
+
 **[Project Page](https://metavert.io/lastsaas)**
 
 ---
